@@ -83,8 +83,18 @@
 }
 
 .main h2 {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
+  margin-left: 210px;
+}
+.main h1 {
+  font-size: 20px;
+  font-weight: bold;
+   margin-left: 210px;
+}
+.main ol {
+  font-size: 15px;
+  margin-left: 210px;
 }
 
 @media screen and (max-width: 700px) {
